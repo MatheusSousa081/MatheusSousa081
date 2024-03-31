@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ![image](https://github.com/MatheusSousa081/MatheusSousa081/assets/136743434/85eeba60-c2ed-4714-bc76-24fc7aa659c1) Java student
-- 
+- Java student ☕
+- Passionate about programming 💻
+- Backend developer 👨‍💻
